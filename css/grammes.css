@@ -1,0 +1,100 @@
+.container-login100 {
+  width: 100%;  
+  min-height: 200vh;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /*padding: 15px;*/
+  position: relative;
+  background-color: #fff;
+}
+
+.dropdown {
+	font-family: Roboto-Bold;
+	margin-left: 180px;
+}
+
+.name {
+	font-family: Roboto-Bold;
+	font-size: 20px;
+	margin-left: 180px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.st {
+	font-family: Roboto-Bold;
+	font-size: 18px;
+	margin-left: 180px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.st2 {
+	font-family: Roboto-Bold;
+	font-size: 18px;
+	margin-left: 240px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.d1 {
+	font-family: Roboto-Bold;
+	margin-left: 260px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #6da0e8;
+}
+
+.staseis {
+	font-family: Roboto-Bold;
+	margin-left: 230px;
+	color: #6da0e8;
+}
+
+ul.breadcrumb {
+  margin-left: 150px;
+  margin-top: 30px;
+  padding: 10px 16px;
+  list-style: none;
+  background-color: #fff;
+}
+
+.login100-form-title {
+  font-family: Roboto-Regular;
+  font-size: 26px;
+  color: #3841f5;
+  line-height: 0.2;
+  display: block;
+  position: relative;
+  width: 100%;
+  margin-top: 10px;
+  margin-left: 170px;
+  margin-bottom: 50px;
+  padding-top: 50px;
+  padding-bottom: 19px;
+}
+
+/* Display list items side by side */
+ul.breadcrumb li {
+  display: inline;
+  font-size: 16px;
+  font-family: Roboto-Regular;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}

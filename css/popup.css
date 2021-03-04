@@ -1,0 +1,55 @@
+.header {
+	font-family: Roboto-Bold;
+	font-size: 19px;
+	margin-left: 60px;
+	margin-top: 16px;
+	margin-bottom: 6px;
+}
+	
+.inst {
+	font-family: Roboto-Regular;
+	margin-left: 60px;
+	color: grey;
+}
+
+.inst2 {
+	font-family: Roboto-Regular;
+	margin-left: 60px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+	color: grey;
+}
+
+.inst3 {
+	font-family: Roboto-Bold;
+	margin-left: 60px;
+	margin-top: 6px;
+	margin-bottom: 6px;
+	color: grey;
+}
+
+.inst4 {
+	font-family: Roboto-Regular;
+	margin-left: 60px;
+	color: grey;
+}
+
+.staseis {
+	font-family: Roboto-Bold;
+	margin-left: 60px;
+	color: #6da0e8;	
+}
+
+.destination {
+	font-family: Roboto-Bold;
+	margin-left: 60px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.total {
+	font-family: Roboto-Regular;
+	margin-left: 60px;
+	color: grey;
+
+}

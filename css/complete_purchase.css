@@ -1,0 +1,78 @@
+.container-login100 {
+  width: 100%;  
+  min-height: 50vh;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /*padding: 15px;*/
+  position: relative;
+  background-color: #fff;
+}
+
+.login100-form-title {
+  font-family: Roboto-Bold;
+  font-size: 30px;
+  color: #3841f5;
+  line-height: 0.2;
+  display: block;
+  position: relative;
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 170px;
+  padding-top: 50px;
+  padding-bottom: 19px;
+}
+
+.text {
+  position: absolute;
+  padding: 0px 180px;
+  top: 60px;
+  left: -20px;
+  font-family: Roboto-Regular;
+  font-size: 18px;
+}
+
+.image {
+  width: 500px;
+  height: 250px;
+  margin-left: -70px;
+}
+
+.instructions{
+    display: list-item;
+    position: absolute;
+}
+
+ul.breadcrumb {
+  margin-left: 150px;
+  margin-top: 30px;
+  padding: 10px 16px;
+  list-style: none;
+  background-color: #fff;
+}
+
+/* Display list items side by side */
+ul.breadcrumb li {
+  display: inline;
+  font-size: 16px;
+  font-family: Roboto-Regular;
+}
+
+/* Add a slash symbol (/) before/behind each list item */
+ul.breadcrumb li+li:before {
+  padding: 8px;
+  color: black;
+  content: "/\00a0";
+}
+
+ul.breadcrumb li a {
+  color: #0275d8;
+  text-decoration: none;
+}
+
+ul.breadcrumb li a:hover {
+  color: #01447e;
+  text-decoration: underline;
+}
+
+
